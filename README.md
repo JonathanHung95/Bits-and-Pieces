@@ -1,2 +1,3 @@
-# Toronto-Police-File-Merge
-Merging the Assault data from the Toronto Police with the neighbourhood statistic data from StatCan.
+# Bits and Pieces
+
+This repository holds miscellaneous code, useful for doing things but not part of an overall project.
